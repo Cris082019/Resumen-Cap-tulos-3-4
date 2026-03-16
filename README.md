@@ -1,6 +1,6 @@
 ### ***Resumen-Capitulos-3-4***
 
-**Redes Inalámbricas y Celulares**<br>
+🔴**Redes Inalámbricas y Celulares**<br>
 Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comunicarse:
 
 🟢**Red de Telefonía Celular (GSM):** Es la red básica para llamadas de voz y mensajes de texto (SMS). La señal viaja de torre en torre hasta su destino.
