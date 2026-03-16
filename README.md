@@ -26,7 +26,7 @@ Para garantizar una conexión segura y eficiente, se destacan los siguientes asp
 
 ➖Nunca enviar contraseñas por texto sin encriptar.
 
-***Tecnología Bluetooth***
+***Tecnología Bluetooth***<br>
 Es una conexión inalámbrica de corto alcance y bajo consumo de energía.
 
 ➖**Emparejamiento:** Un dispositivo busca mientras el otro está en "modo visible".
@@ -35,3 +35,4 @@ Es una conexión inalámbrica de corto alcance y bajo consumo de energía.
 
 ➖**Autenticación:** A menudo se requiere un código PIN para confirmar la conexión entre los equipos.
 
+<img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20202753.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20202844.png"   width="270" height="136">
