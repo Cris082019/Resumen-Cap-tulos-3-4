@@ -14,3 +14,24 @@ Los dispositivos móviles utilizan diferentes tipos de ondas de radio para comun
 
 <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/GSM.png"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20201825.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20201901.png"   width="270" height="136"> <img src="https://github.com/Cris082019/Resumen-Capitulos-3-4/blob/main/Captura%20de%20pantalla%202026-03-15%20201937.png"   width="270" height="136">
 
+🔴**Conectividad y Seguridad en Dispositivos**<br>
+Para garantizar una conexión segura y eficiente, se destacan los siguientes aspectos:
+
+***Seguridad en Wi-Fi***<br>
+➖Para proteger tus datos al usar Wi-Fi, se recomienda:
+
+➖Usar cifrado WPA2 o superior.
+
+➖Utilizar una VPN para datos confidenciales.
+
+➖Nunca enviar contraseñas por texto sin encriptar.
+
+***Tecnología Bluetooth***
+Es una conexión inalámbrica de corto alcance y bajo consumo de energía.
+
+➖**Emparejamiento:** Un dispositivo busca mientras el otro está en "modo visible".
+
+➖**Información compartida:** Al conectarse, los dispositivos intercambian su nombre, clase, servicios disponibles y especificaciones técnicas.
+
+➖**Autenticación:** A menudo se requiere un código PIN para confirmar la conexión entre los equipos.
+
